@@ -54,6 +54,7 @@ body{
 .container{
     background-color: hsl(0, 0%, 100%);
     padding: 1.5rem;
+    margin: 1.5rem;
     max-width: 23rem;
     border-radius: 1rem;
     display: grid;
